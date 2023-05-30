@@ -1,0 +1,25 @@
+<p>One Day's Commissioning (8 hours on site) of up to 4 (subject to site conditions and requirements) Series 9 Gauges. Charges are fully inclusive of travel time, flights and living expenses</p>
+
+<p>The Services provided as part of the Commissioning include:
+An assigned Customer Care Engineer
+Telephone consultation and support prior to the visit
+One 8 hour day on site during which the engineer will:</p>
+<ul>
+<li>Check the installation, cabling and make connections</li>
+<li>Check all gauge components and Devices and confirm functionality</li>
+<li>Check all network cables and connections</li>
+<li>Set up initial Component Calibrations</li> 
+<li>Set up the Product Manager Function (where GVI is supplied)</li>
+</ul>
+Provide basic operator training, to include:
+
+<ul>
+<li>Overview of Gauge/Analyzer components and functionality</li>
+<li>Overview of optional devices purchased (GCI, OT, PH and Switched Hub)</li>
+<li>Principles of calibrating the gauge to the laboratory using GaugeToolsXL/InfraLab Manager Software</li>
+<li>Using the Product Manager Function in the GCI (where supplied)</li> 
+<li>Undestanding Gauge/Analyzer Diagnostics</li>
+<li>Changing Consumables</li>
+<li>Using the Auto Reference Standard</li>
+</ul>
+<p>NB: The gauge(s) must be fully avaILable and accessible to the commissioning engineer for the 8 hour duration during normal working hours unless prior arrangements have been agreed in writing (specifed with order)."</p>
